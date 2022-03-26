@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/site/jquery.js": "/site/jquery.js",
+    "/site/bootstrap.min.css": "/site/bootstrap.min.css",
+    "/site/bootstrap.min.css.map": "/site/bootstrap.min.css.map",
+    "/site/bootstrap.js": "/site/bootstrap.js",
+    "/site/bootstrap.bundle.js.map": "/site/bootstrap.bundle.js.map",
+    "/site/bootstrap.bundle.min.js": "/site/bootstrap.bundle.min.js",
+    "/site/bootstrap.bundle.min.js.map": "/site/bootstrap.bundle.min.js.map"
+}
