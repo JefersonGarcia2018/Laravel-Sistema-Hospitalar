@@ -48,7 +48,7 @@ php artisan key:generate
 php artisan migrate --seed
 ```
 # Login
-O usuário/funcionário inicial, para Login, terá acesso para registrar novos funcionários para cada setor: Recepção, Medicina e Enfermagem. E a senha inícial, destes novos funcionários que serão cadastrados, é o número do CPF sem pontuação. Os funcionários podem redefinir sua senha na opção: configuração->redefinir senha
+O usuário/funcionário inicial, para Login, terá acesso para registrar novos funcionários para cada setor: Recepção, Medicina e Enfermagem. E a senha inícial, destes novos funcionários, é o número do CPF sem pontuação. Os funcionários podem redefinir sua senha na opção: configuração->redefinir senha
 ``` bash
 email: analista_rh@gmail.com
 senha: 12345678
