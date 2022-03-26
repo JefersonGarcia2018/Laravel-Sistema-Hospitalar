@@ -54,4 +54,4 @@ email: analista_rh@gmail.com
 senha: 12345678
 ```
 # Vídeos do Sistema Hospitalar
-- [001 - Sistema Hospitalar - Mostrando Tela inicial e fazendo Login]https://www.youtube.com/watch?v=kkkudcWr43s&list=PLziiWDFoVJ3a1AVlct3AOQ03F0SU6hlxs)
+- [001 - Sistema Hospitalar - Mostrando Tela inicial e fazendo Login](https://www.youtube.com/watch?v=kkkudcWr43s&list=PLziiWDFoVJ3a1AVlct3AOQ03F0SU6hlxs)
