@@ -14,6 +14,7 @@ class RhController extends Controller
     public function __construct()
     {
         $this->middleware('auth');
+        $this->middleware('can:rh');
     }
 
     public function indexCadastarFuncionario()
