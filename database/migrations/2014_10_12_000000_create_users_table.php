@@ -19,11 +19,11 @@ class CreateUsersTable extends Migration
             $table->string('email', 100)->unique();
             $table->string('cpf', 14)->unique();
             $table->string('celular', 14);
-            $table->boolean('admin');
-            $table->boolean('rh');
-            $table->boolean('recepcao');
-            $table->boolean('enfermagem');
-            $table->boolean('medicina');
+            $table->boolean('admin')->nullable();
+            $table->boolean('rh')->nullable();
+            $table->boolean('recepcao')->nullable();
+            $table->boolean('enfermagem')->nullable();
+            $table->boolean('medicina')->nullable();
             $table->string('setor', 50);
             $table->string('cargo', 50);
             $table->string('password');
