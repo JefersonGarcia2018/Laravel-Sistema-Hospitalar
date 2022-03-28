@@ -9,6 +9,7 @@ class UserFactory extends Factory
 {
     /**
      * Define the model's default state.
+     * Defina o estado padrão de cada registro.
      *
      * @return array
      */
@@ -25,6 +26,7 @@ class UserFactory extends Factory
 
     /**
      * Indicate that the model's email address should be unverified.
+     * Indique que o endereço de e-mail de cada registro não deve ser verificado.
      *
      * @return \Illuminate\Database\Eloquent\Factories\Factory
      */
@@ -36,4 +38,5 @@ class UserFactory extends Factory
             ];
         });
     }
+
 }

@@ -131,7 +131,7 @@ class RecepcaoController extends Controller
         
         if (count($pacientes) == 0) 
         {
-            return redirect()->route('pesquisar-paciente')
+            return redirect()->route('recepcao-pesquisar-paciente')
                     ->with([
                             'radioOpcao' => $dados['radioOpcao'],
                             'item_pesquisa' => $dados['item_pesquisa'],

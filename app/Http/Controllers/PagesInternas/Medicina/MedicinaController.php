@@ -64,7 +64,7 @@ class MedicinaController extends Controller
         
         if (count($pacientes) == 0) 
         {
-            return redirect()->route('pesquisar-paciente')
+            return redirect()->route('medicina-pesquisar-paciente')
                     ->with([
                             'radioOpcao' => $dados['radioOpcao'],
                             'item_pesquisa' => $dados['item_pesquisa'],
