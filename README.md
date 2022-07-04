@@ -11,6 +11,9 @@ Projeto desenvolvido utilizando o framework LARAVEL 8, com implementação de ro
 - Possui a funcionalidade de relatórios de enfermagem.
 - Possui as funcionalidades de prescrição e relatórios médicos.
 
+# Vídeos do Sistema Hospitalar
+- [001 - Sistema Hospitalar - Mostrando Tela inicial e fazendo Login](https://www.youtube.com/watch?v=kkkudcWr43s&list=PLziiWDFoVJ3a1AVlct3AOQ03F0SU6hlxs)
+
 ## Dependências/libs/plugin utilizados
 
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/download/): versão 5.1.3
@@ -53,5 +56,3 @@ O usuário/funcionário inicial, para Login, terá acesso para registrar novos f
 email: analista_rh@gmail.com
 senha: 12345678
 ```
-# Vídeos do Sistema Hospitalar
-- [001 - Sistema Hospitalar - Mostrando Tela inicial e fazendo Login](https://www.youtube.com/watch?v=kkkudcWr43s&list=PLziiWDFoVJ3a1AVlct3AOQ03F0SU6hlxs)
